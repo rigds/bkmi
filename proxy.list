@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,xn--ngstr-ira8j.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,*xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,services.googleapis.com
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
