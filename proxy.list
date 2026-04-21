@@ -1,5 +1,5 @@
 # 代理补充列表
-
+# DOMAIN-SUFFIX,
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 # 域名关键字匹配
@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,*xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.com
+DOMAIN-SUFFIX,https://theporndude.com
+DOMAIN-SUFFIX,javbus
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
