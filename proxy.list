@@ -5,10 +5,10 @@ DOMAIN-SUFFIX,qichiyu.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-SUFFIX,xn--ngstr-ira8j.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,*xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,services.googleapis.com
+#DOMAIN-SUFFIX,googleapis.com
+#DOMAIN-SUFFIX,services.googleapis.cn
+#DOMAIN-SUFFIX,*xn--ngstr-lra8j.com
+#DOMAIN-SUFFIX,services.googleapis.com
 DOMAIN-SUFFIX,theporndude.com
 DOMAIN-SUFFIX,javbus.com
 # 国外DNS
