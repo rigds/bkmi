@@ -4,6 +4,8 @@
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,smjcdh.top
 DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,sub.one
 # 静态规则
 DOMAIN-SUFFIX,bing.com
