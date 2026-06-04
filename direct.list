@@ -2,6 +2,7 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,smjcdh.top
 # 静态规则
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
