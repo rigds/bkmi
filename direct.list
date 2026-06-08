@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,sub.one
-DOMAIN-SUFFIX,fast.com
+
 # 静态规则
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
@@ -19,4 +19,4 @@ DOMAIN-SUFFIX,cuuck.ggff.net
 DOMAIN-SUFFIX,m.6umkq9b.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,iurax.no-mad-sub.one
-
+DOMAIN-SUFFIX,fast.com
