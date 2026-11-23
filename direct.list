@@ -8,20 +8,3 @@ DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,sub.one
 
-# 静态规则
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.net
-DOMAIN-SUFFIX,smjcdh.com
-DOMAIN-SUFFIX,cuuck.ggff.net
-DOMAIN-SUFFIX,m.6umkq9b.com
-DOMAIN-SUFFIX,iurax.no-mad-sub.one
-DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,gvt3.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,cuutc.ccwu.cc
-DOMAIN-SUFFIX,api.cloudflare.com
-DOMAIN-SUFFIX,imgk.de5.net
