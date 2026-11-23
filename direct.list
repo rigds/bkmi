@@ -1,7 +1,5 @@
 # 直连补充列表
-
-#域名关键字匹配
-
+# 域名关键字匹配（暂无规则，可删除本节）
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,baidu.com
@@ -22,7 +20,7 @@ DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
 DOMAIN-SUFFIX,gvt1.com
-​DOMAIN-SUFFIX,gvt2.com
-​DOMAIN-SUFFIX,gvt3.com
-​DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,api.cloudflare.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,cuutc.ccwu.cc
